@@ -1,0 +1,30 @@
+1.What does CSS stand for?
+2.What is the correct HTML for referring to an external style sheet?
+3.How you will differentiate CSS 3 from CSS? Explain with a few examples
+4.Explain the ‘Box Model’ in CSS! What elements form it?
+5.Can you make border rounded with CSS3? Is it possible!
+6.How are colours used in accordance with CSS3?
+7.How to use font properly in CSS3?
+8.There is a term being extensively used with CSS3 i.e. ‘Webkit’. Please explain the use of this term!
+9. What are different types of CSS3 shadows 
+10. Are there any provision in CSS3 for using images as the border?
+11.Explain the use of multiple backgrounds in the CSS3!
+12.What is CSS3 resizing property?
+13. How can we avoid repeated images in the background?
+14. Are there any new properties for checking the limit of the length of the text in CSS3?
+15.Describe about new CSS3 property ‘Flex’ in few words
+16.What is CSS3 multiple column property?
+17.Can we use gradients using CSS3 directly on web pages?
+18.What are CSS3 transitions? Explain their use in brief!
+19.Define the use of new image properties in CSS3?
+20.Explain the use of media queries in CSS3!
+21.How CSS3 is related to responsive web designing?
+22.What are the main advantage of using CSS3?
+23.What are the limitation of CSS3?
+24.What is the difference between transition and transform in CSS3?
+25.What are keyframes in CSS3 Animations?
+26.Explain  the attributes of CSS 3 Animations!
+27.What are the default values of the CSS3 animation properties elements? altleast 5.
+28.Can we stop the animation at the last keyframe completely?
+29.What is the difference between display:none and visibility:hidden?
+30.What is the difference between cell padding and cell spacing?
